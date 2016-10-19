@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hey Ryan!
+                    Hey Simon!
                 </div>
 
                 <div class="links">
