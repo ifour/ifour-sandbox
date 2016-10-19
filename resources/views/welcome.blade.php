@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hey Ryan again!
+                    Playing at home
                 </div>
 
                 <div class="links">
